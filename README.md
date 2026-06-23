@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!# Hi, I'm Niharika TR 👋
+ Hi, I'm Niharika TR 👋
 
 ### Aspiring AI/ML Engineer | Python Developer | Data Analytics Enthusiast
 
